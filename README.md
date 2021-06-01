@@ -1,4 +1,4 @@
-# Forecasting-with-FbProphet
+# Forecasting-Online-Retail
 Forecasting of weekly aggregated sales using Facebook's Prophet
 
 
