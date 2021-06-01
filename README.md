@@ -2,7 +2,7 @@
 Forecasting of weekly aggregated sales using Facebook's Prophet
 
 
-https://as1313.github.io/Forecasting-with-FbProphet/ 
+https://as1313.github.io/Forecasting-Online-Retail/
 
 
 1) Introduction : Introduction
